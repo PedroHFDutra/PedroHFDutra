@@ -27,7 +27,7 @@
 </div>
 
 ##
-## Skills in Progress (Habilidades em Estudo): 
+## Skills in Progress (Tecnologias em Estudo): 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/c/c-original.svg">
