@@ -27,7 +27,7 @@
 </div>
 
 
-## Skills in Progress (Tecnologias em Estudo): 
+## Skills in Progress (Habilidades em Estudo): 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Groovy" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg">
