@@ -14,7 +14,7 @@
 🗨PT-BR:
 - 🔭 Atualmente trabalho como Analista de Suporte e Implantação na @bethasistemas
 - 🌱 Acadêmico de Engenharia de Software pela UniCesumar (1/4)
-- 🤝 Estou procurando colaborar em Desenvolvimento Web
+- 🤝 Estou procurando colaborar em Desenvolvimento 
 - 📫 Contate-me em phdf.123@gmail.com
 - ⚡ Fato Engraçado: Sou um viciado em Energético Monster 🥤
 
