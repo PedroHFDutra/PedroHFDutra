@@ -18,7 +18,9 @@
 - 📫 Contate-me em phdf.123@gmail.com
 - ⚡ Fato Engraçado: Sou um viciado em Energético Monster 🥤
 
-##
+
+
+## Github Stats:
 
 <div align="center">
   <a href="https://github.com/PedroHFDutra">
@@ -37,7 +39,7 @@
           
 </div>
 
-##
+
 ## Contact me!
 <div> 
   <a href="https://instagram.com/_pedrodutra_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
