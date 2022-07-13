@@ -8,6 +8,7 @@
 - 🤝 I’m looking to collaborate on Web Devlopment 
 - 📫 Hit me on phdf.123@gmail.com 
 - ⚡ Fun fact: I'm a Monster Energy addicted 🥤
+- 💡 "Believe you can and you're halfway there." (Theodore Roosevelt)
 
 ##
 
