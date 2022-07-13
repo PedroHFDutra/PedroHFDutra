@@ -18,6 +18,7 @@
 - 🤝 Estou procurando colaborar em Desenvolvimento Web
 - 📫 Contate-me em phdf.123@gmail.com
 - ⚡ Fato Engraçado: Sou um viciado em Energético Monster 🥤
+- 💡 "Acredite que você pode, assim você já está no meio do caminho." (Theodore Roosevelt)
 
 
 
