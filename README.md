@@ -1,3 +1,4 @@
+<!-- "Hello there" phrase -->
 <div align="center">
   <h1>Hello there! Pleased to meet you! My name is Pedro!</a> 👨‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1> <i><b>🌾Welcome to my GitHub Profile!🌾</b></i>
 </div>
@@ -25,7 +26,7 @@
 - 💡 "Acredite que você pode, assim você já está no meio do caminho." (Theodore Roosevelt)
 
 
-
+<!-- GitHub Stats -->
 <div align="center">
     <h1>GitHub Stats</h1><i><b>Yeah, I care about it... It's funny</b></i>
 </div>
@@ -37,6 +38,7 @@
         <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHFDutra&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div> 
 
+<!--Technologies -->
 <div align="center">
     <h1>Skills in Progress</h1> <i><b> Skills in progress through personal studies </i></b>
 </div>
