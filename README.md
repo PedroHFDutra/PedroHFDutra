@@ -53,6 +53,7 @@
   <a href="https://www.linkedin.com/in/pedrohdutra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/Pedro_Dutra#1052"><img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white></a>
  <a href="https://dev.to/pedrohfdutra"><img src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white></a>
+ <a href="https://gitlab.com/pedrohfdutra"><img src=https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white></a>
   
 </div>
 
