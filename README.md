@@ -29,7 +29,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrohfdutra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohfdutra&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-
+1
 
 ## Skills in Progress (Habilidades em Estudo): 
 </div>
