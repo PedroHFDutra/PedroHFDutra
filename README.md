@@ -2,6 +2,10 @@
   <h1>Hello there! Pleased to meet you! My name is Pedro!</a> 👨‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1> <i><b>🌾Welcome to my GitHub Profile!🌾</b></i>
 </div>
 
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👓 Pedro Dutra | 💻 Software Engineer Aspirant | 🛸 Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
 💬EN:
 - 🔭 I’m currently working was Support Analyst at @bethasistemas
 - 🌱 Software Engineering student at University Cesumar (1/4)
