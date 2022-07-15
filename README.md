@@ -32,9 +32,9 @@
 
 <div align="center">
     <a href="https://github.com/PedroHFDutra">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroHFDutra&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"/>
-        <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHFDutra&theme=gotham&hide_border=true"/>
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHFDutra&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroHFDutra&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"/>
+        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHFDutra&theme=gotham&hide_border=true"/>
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHFDutra&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div> 
 
 <div align="center">
