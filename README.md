@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-    <h1>Skills in Progress </a></h1> <i><b> Skills in progress through personal studies </i></b>
+    <h1>Skills in Progress</h1> <i><b> Skills in progress through personal studies </i></b>
 </div>
 
 </div>
