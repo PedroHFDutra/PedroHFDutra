@@ -28,7 +28,9 @@
 
 <!-- GitHub Stats -->
 <div align="center">
+  <p>
     <h1>GitHub Stats</h1><i><b>Yeah, I care about it... It's funny</b></i>
+  </p>
 </div>
 
 <div align="center">
@@ -43,26 +45,27 @@
     <h1>Skills in Progress</h1> <i><b> Skills in progress through personal studies </i></b>
 </div>
 
-</div>
 <p align="center"><br>
   <img align="center" alt="Groovy" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg">
   <img align="center" alt="C" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
   <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="MySQL" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
-
+</p>
+  
 <!--Tech Stack -->
 <div align="center">
+  <p>
     <h1>Technology Stack</h1><i><b>Softwares & Tools that I currently use</b></i>
+  </p>
 </div>
 
 <div align="center">
-    <img align="center" alt="jira" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
-    <img align="center" alt="trello" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
-    <img align="center" alt="figma" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-    <img align="center" alt="git" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
-    <img align="center" alt="vscode" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+    <img align="center" alt="jira" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
+    <img align="center" alt="trello" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
+    <img align="center" alt="figma" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+    <img align="center" alt="git" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+    <img align="center" alt="vscode" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
 
 <!--Contacts -->
