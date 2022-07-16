@@ -52,6 +52,19 @@
   <img align="center" alt="MySQL" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
+<!--Tech Stack -->
+<div align="center">
+    <h1>Technology Stack</h1><i><b>Softwares & Tools that I currently use</b></i>
+</div>
+
+<div align="center">
+    <img align="center" alt="jira" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
+    <img align="center" alt="trello" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
+    <img align="center" alt="figma" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+    <img align="center" alt="git" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
+    <img align="center" alt="vscode" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+</div>
+
 <!--Contacts -->
 <div align="center">
 <h1>Contact me!</h1>
