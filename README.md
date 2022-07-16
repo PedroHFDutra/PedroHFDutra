@@ -52,6 +52,7 @@
   <img align="center" alt="MySQL" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
+<!--Contacts -->
 <div align="center">
 <h1>Contact me!</h1>
 </div>
