@@ -40,6 +40,20 @@
         <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHFDutra&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div> 
 
+ <!--GitHub Trophy --> 
+<div align="center">
+    <p>
+        <h1>Trophy Room</h1><i><b>Don't you know about the GitHub's trophies? (I love them 😎)</b></i>
+    </p>
+</div>
+
+<div align="center">
+    <p>
+        <a href="https://github.com/PedroHFDutra"></a>
+        <img height="110em" src="https://github-profile-trophy.vercel.app/?username=PedroHFDutra&theme=darkhub&no-frame=true&no-bg=false&margin-w=4"/>
+    </p> 
+</div>
+      
 <!--Technologies -->
 <div align="center">
     <h1>Skills in Progress</h1> <i><b> Skills in progress through personal studies </i></b>
@@ -80,3 +94,4 @@
  <a href="https://dev.to/pedrohfdutra"><img src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white></a>
  <a href="https://gitlab.com/pedrohfdutra"><img src=https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white></a> 
 </div>
+      
