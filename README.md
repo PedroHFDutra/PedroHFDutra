@@ -73,7 +73,7 @@
 <div align="center">
 <h1>Contact me!</h1> 
   <p>
-    Let me know if you need anything else
+    <i><b>Let me know if you need anything else ;)</i></b>
     </p>
 </div>
 <div align="center"> 
