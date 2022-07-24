@@ -71,7 +71,10 @@
 
 <!--Contacts -->
 <div align="center">
-<h1>Contact me!</h1>
+<h1>Contact me!</h1> 
+  <p>
+    Let me know if you need anything else
+    </p>
 </div>
 <div align="center"> 
   <a href="https://instagram.com/_pedrodutra_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
