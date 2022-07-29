@@ -86,6 +86,6 @@
 </div>
 <div align="center">
 <p>
-<a href="https://app.daily.dev/pedro_dutra"><img src="https://api.daily.dev/devcards/7af9907a0f79423c8d5fe0f1438429d0.png?r=ssq" width="200" alt="Pedro Henrique's Dev Card"/></a>
+<a href="https://app.daily.dev/pedro_dutra"><img src="https://api.daily.dev/devcards/7af9907a0f79423c8d5fe0f1438429d0.png?r=ssq" width="260" alt="Pedro Henrique's Dev Card"/></a>
  </p>
 </div>
