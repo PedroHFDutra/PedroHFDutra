@@ -84,5 +84,8 @@
  <a href="https://dev.to/pedrohfdutra"><img src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white></a>
  <a href="https://gitlab.com/pedrohfdutra"><img src=https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white></a> 
 </div>
-      
-
+<div align="center">
+<p>
+<a href="https://app.daily.dev/pedro_dutra"><img src="https://api.daily.dev/devcards/7af9907a0f79423c8d5fe0f1438429d0.png?r=ssq" width="200" alt="Pedro Henrique's Dev Card"/></a>
+ </p>
+</div>
