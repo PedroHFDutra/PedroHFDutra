@@ -17,15 +17,16 @@
 <p>- 💡 "Believe you can and you're halfway there." (Theodore Roosevelt)</p>
 </div>
 
-
-🗨PT-BR:
-- 🔭 Atualmente trabalho como Analista de Suporte e Implantação na @bethasistemas
-- 🌱 Acadêmico de Engenharia de Software pela UniCesumar (1/4)
-- 🤝 Estou procurando colaborar em Desenvolvimento Web
-- 📫 Contate-me em phdf.123@gmail.com
-- ⚡ Fato Engraçado: Sou um viciado em Energético Monster 🥤
-- 💡 "Acredite que você pode, assim você já está no meio do caminho." (Theodore Roosevelt)
-
+##
+<div>
+<p>🗨PT-BR:</p>
+<p>- 🔭 Atualmente trabalho como Analista de Suporte e Implantação na @bethasistemas</p>
+<p>- 🌱 Acadêmico de Engenharia de Software pela UniCesumar (1/4)</p>
+<p>- 🤝 Estou procurando colaborar em Desenvolvimento Web</p>
+<p>- 📫 Contate-me em phdf.123@gmail.com</p>
+<p>- ⚡ Fato Engraçado: Sou um viciado em Energético Monster 🥤</p>
+<p>- 💡 "Acredite que você pode, assim você já está no meio do caminho." (Theodore Roosevelt)</p>
+</div>
 
 <!-- GitHub Stats -->
 <div align="center">
