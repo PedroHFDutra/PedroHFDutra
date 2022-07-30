@@ -7,15 +7,16 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🎖 Former Soldier | 💻 Software Engineer Aspirant | 🇧🇷 Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-💬EN:
-- 🔭 I’m currently working was Support Analyst at @bethasistemas
-- 🌱 Software Engineering student at University Cesumar (1/4)
-- 🤝 I’m looking to collaborate on Web Development 
-- 📫 Hit me on phdf.123@gmail.com 
-- ⚡ Fun fact: I'm a Monster Energy addicted 🥤
-- 💡 "Believe you can and you're halfway there." (Theodore Roosevelt)
+<div>
+<p>💬EN:</p>
+<p>- 🔭 I’m currently working was Support Analyst at @bethasistemas</p>
+<p>- 🌱 Software Engineering student at University Cesumar (1/4)</p>
+<p>- 🤝 I’m looking to collaborate on Web Development</p> 
+<p>- 📫 Hit me on phdf.123@gmail.com</p> 
+<p>- ⚡ Fun fact: I'm a Monster Energy addicted 🥤</p>
+<p>- 💡 "Believe you can and you're halfway there." (Theodore Roosevelt)</p>
+</div>
 
-##
 
 🗨PT-BR:
 - 🔭 Atualmente trabalho como Analista de Suporte e Implantação na @bethasistemas
